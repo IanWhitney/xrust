@@ -1,0 +1,11 @@
+[root]
+name = "knight-attack"
+version = "0.0.0"
+dependencies = [
+ "queen-attack 0.0.0",
+]
+
+[[package]]
+name = "queen-attack"
+version = "0.0.0"
+

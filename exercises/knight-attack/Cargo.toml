@@ -1,0 +1,6 @@
+[package]
+name = "knight-attack"
+version = "0.0.0"
+
+[dependencies]
+queen-attack = { path = "../queen-attack/", version = "0.0.0" }
